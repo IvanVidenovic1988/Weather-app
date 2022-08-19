@@ -1,0 +1,32 @@
+.search {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  
+  .search input { 
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+    
+  }
+  
+  .search img {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    position: relative;
+    right: 30px;
+    color: black;
+  }
+
+  .loading {
+    text-align: center;
+  }
+
+  .loading img {
+    width: 20px;
+    height: 20px;
+  }

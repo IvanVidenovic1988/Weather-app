@@ -1,0 +1,48 @@
+.name {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: black;
+}
+
+.wrapper {
+   width: 400px;
+   margin: auto;
+}
+
+.day {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;  
+    margin-bottom: 10px;
+    border-radius: 10px;   
+    background-color: rgba(255,255,255,0.5); 
+    color: black;
+}
+
+.max-min {
+    margin-left: 20px;
+}
+
+.max-temp {
+    margin-bottom: 15px;
+}
+.desc {
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+}
+
+.extras {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 400px;
+    margin-bottom: 60px;
+    border-radius: 10px; 
+    background-color: rgba(255,255,255,0.5); 
+    color: black;
+}
+
+
